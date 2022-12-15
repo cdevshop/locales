@@ -104,4 +104,13 @@ clib.localizer.append("ru", {
     sale_fee = "Комиссия для сотрудника за продажу (%)",
     fire_employee = "Уволить сотрудника",
     employeeupdated = "Сотрудник успешно обновлён!",
+    manage_orders = "Manage Orders",
+    accept = "Accept",
+    decline = "Decline",
+    no_orders = "There are no orders at the moment",
+    no_defined_spawn = "There are no defined spawn points for this shop.",
+    no_available_spawn = "There are no available spots to spawn this vehicle. Please free up some space.",
+    accept_order_success = "Order accepted successfuly! The vehicle has been spawned.",
+    active_orders = "Active Orders",
+    decline_order_success = "Order has been declined. The money has been refunded to the customer and the stock has been returned.",
 })

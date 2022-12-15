@@ -104,4 +104,13 @@ clib.localizer.append("nl", {
     sale_fee = "Verkoop Werknemersvergoeding (%)",
     fire_employee = "Ontsla medewerker",
     employeeupdated = "Medewerker succesvol geupdate",
+    manage_orders = "Beheer Orders",
+    accept = "Accepteer",
+    decline = "Weiger",
+    no_orders = "Er zijn momenteel geen orders.",
+    no_defined_spawn = "Er zijn geen spawn punten in deze shop.",
+    no_available_spawn = "Er is onvoldoende ruimte om de auto te spawnen, maak aub ruimte.",
+    accept_order_success = "Order is succesvol geaccepteerd. De auto is succesvol gespawned.",
+    active_orders = "Actieve Orders",
+    decline_order_success = "Order is geweigerd en de klant heeft zijn geld terug ontvangen.",
 })
