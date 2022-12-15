@@ -84,7 +84,7 @@ clib.localizer.append("fi", {
     vehicle_deleted = "Ajoneuvon poistaminen onnistui!",
     update_vehicle = "Päivitä ajoneuvo",
     vehicle_updated = "Ajoneuvon päivitys onnistui!",
-    settingst = "Asetukset",
+    settings = "Asetukset",
     vehicle_supply_price_multiplier = "Ajoneuvon hankintahinnan kerroin",
     settings_updated = "Asetukset päivitetty onnistuneesti!",
     manage_stock = "Hallinnoi varastoa",
