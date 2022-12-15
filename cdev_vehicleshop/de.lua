@@ -103,4 +103,13 @@ clib.localizer.append("de", {
     sale_fee = "Verkaufsprovision für Mitarbeiter (%)",
     fire_employee = "Mitarbeiter entlassen",
     employeeupdated = "Mitarbeiter erfolgreich aktualisiert!",
+    manage_orders = "Bestellungen verwalten",
+    accept = "Annehmen",
+    decline = "Abfall",
+    no_orders = "Zur Zeit liegen keine Bestellungen vor",
+    no_defined_spawn = "Für diesen Shop gibt es keine definierten Spawnpunkte.",
+    no_available_spawn = "Es sind keine Plätze verfügbar, um dieses Fahrzeug zu spawnen. Bitte geben Sie etwas Platz frei.",
+    accept_order_success = "Bestellung erfolgreich angenommen! Das Fahrzeug wurde gespawnt.",
+    active_orders = "Aktive Bestellungen",
+    decline_order_success = "Bestellung wurde abgelehnt. Das Geld wurde dem Kunden zurückerstattet und der Bestand wurde zurückgegeben.",
 })
