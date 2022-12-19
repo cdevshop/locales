@@ -113,4 +113,11 @@ clib.localizer.append("gr", {
     accept_order_success = "Η παραγγελία έγινε αποδεκτή με επιτυχία! Το όχημα έχει γινει spawn.",
     active_orders = "Ενεργές Παραγγελίες",
     decline_order_success = "Η παραγγελία απορρίφθηκε. Τα χρήματα έχουν επιστραφεί στον πελάτη και το απόθεμα έχει επιστραφεί.",
+    change_display_vehicle = "Change Display Vehicle",
+    tip_toggle_class = "- Press ~y~[L. ALT] ~w~to Toggle Vehicle Class",
+    cvshop_help = "Open vehicle shop admin menu",
+    shop_already_exists = "There is already a shop with this name",
+    vehicle_shop_job_label = "Vehicle Dealership",
+    vehicle_shop_job_grade_boss = "Boss",
+    vehicle_shop_job_grade_employee = "Employee",
 })

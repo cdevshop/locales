@@ -113,4 +113,11 @@ clib.localizer.append("ru", {
     accept_order_success = "Order accepted successfuly! The vehicle has been spawned.",
     active_orders = "Active Orders",
     decline_order_success = "Order has been declined. The money has been refunded to the customer and the stock has been returned.",
+    change_display_vehicle = "Change Display Vehicle",
+    tip_toggle_class = "- Press ~y~[L. ALT] ~w~to Toggle Vehicle Class",
+    cvshop_help = "Open vehicle shop admin menu",
+    shop_already_exists = "There is already a shop with this name",
+    vehicle_shop_job_label = "Vehicle Dealership",
+    vehicle_shop_job_grade_boss = "Boss",
+    vehicle_shop_job_grade_employee = "Employee",
 })

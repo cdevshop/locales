@@ -113,4 +113,11 @@ clib.localizer.append("es", {
     accept_order_success = "¡Pedido aceptado con éxito! El vehículo ha sido generado.",
     active_orders = "Órdenes activas",
     decline_order_success = "El pedido ha sido rechazado. Se ha reembolsado el dinero al cliente y se ha devuelto el stock.",
+    change_display_vehicle = "Change Display Vehicle",
+    tip_toggle_class = "- Press ~y~[L. ALT] ~w~to Toggle Vehicle Class",
+    cvshop_help = "Open vehicle shop admin menu",
+    shop_already_exists = "There is already a shop with this name",
+    vehicle_shop_job_label = "Vehicle Dealership",
+    vehicle_shop_job_grade_boss = "Boss",
+    vehicle_shop_job_grade_employee = "Employee",
 })
