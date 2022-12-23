@@ -3,4 +3,4 @@ Locales for cDev FiveM resources
 
 > VehicleShop ✅
 
-> **Lib - DO NOT PR YET** ⚙
+> **Lib** - ACCEPTING PULL REQUESTS
