@@ -155,7 +155,7 @@ clib.localizer.append("et", {
     tip_drawtext_lock = "- Vajutage ~y~[L. ALT]~w~ teksti asukoha lukustamiseks",
     tip_drwatext_place = "- Teksti paigutamiseks vajutage ~g~[E]~w~",
     tip_tablet_instructions_drawtext = "~g~Sihi~w~ igas kohas, et seda ~y~tahvelarvutina~w~ kasutada, tahvelarvuteid kasutatakse ~y~varude sirvimiseks",
-    tip_management_instructions_drawtext = "~g~Aim~w~ at any location to use it as ~y~management~w~, management is used to ~y~manage this store",
+    tip_management_instructions_drawtext = "~g~Sihi~w~ igas kohas, et seda ~y~haldusena~ kasutada, haldamist kasutatakse ~y~poe haldamiseks",
     tip_remove_drawtext = "Selle teksti ~r~eemaldamiseks~w~ vajutage ~r~[E] ~w~",
     drawtext_tablet = "Vajutage ~g~[E] ~w~, et ~g~sirvida laoseisu~w~",
     drawtext_management = "Vajutage ~g~[E] ~w~, et ~g~selle poe haldamiseks~w~",
