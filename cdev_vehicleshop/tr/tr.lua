@@ -153,7 +153,7 @@ clib.localizer.append("en", {
     tip_drawtext = "- Target/Klavye kullanmak için ~y~[TAB]~w~ basın",
     tip_drawtext_height = "- metin yüksekliğini değiştirmek için ~y~[SCROLL]~w~ basın",
     tip_drawtext_lock = "- metin konumunu kilitlemek için ~y~[L. ALT]~w~ basın",
-    tip_drwatext_place = "- Metni koymak için ~g~[E]~w~ basın",
+    tip_drawtext_place = "- Metni koymak için ~g~[E]~w~ basın",
     tip_tablet_instructions_drawtext = "~y~tablet~w~ kullanmak istediğiniz yere ~g~nişan~w~ alın, tabletler  ~y~stoklara bakmak içindir",
     tip_management_instructions_drawtext = "~y~yönetimi nerde kullanmak istiyorsan orayı ~g~nişan~w~ al . ~y~management~w~, management is used to ~y~manage this store",
     tip_remove_drawtext = "Bu yazıyı kaldırmak için ~r~[E] ~w~ye ~r~basın~w~ ",

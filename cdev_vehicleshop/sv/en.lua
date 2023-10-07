@@ -153,7 +153,7 @@ clib.localizer.append("en", {
     tip_drawtext = "- Tryck på ~y~[TAB]~w~ för att växla Prop / Rita textläge",
     tip_drawtext_height = "- Tryck på ~y~[SCROLL]~w~ för att ändra texthöjd",
     tip_drawtext_lock = "- Tryck på ~y~[L. ALT]~w~ för att låsa textposition",
-    tip_drwatext_place = "- Tryck på ~g~[E]~w~ för att placera texten",
+    tip_drawtext_place = "- Tryck på ~g~[E]~w~ för att placera texten",
     tip_tablet_instructions_drawtext = "~g~Aim~w~ på någon plats för att använda det som en ~y~tablet~w~, tabletter används för att ~y~bläddra lager",
     tip_management_instructions_drawtext = "~g~Aim~w~ på vilken plats som helst för att använda den som ~y~management~w~, management används för att ~y~manage denna butik",
     tip_remove_drawtext = "Tryck ~r~[E] ~w~to ~r~remove~w~ denna text",

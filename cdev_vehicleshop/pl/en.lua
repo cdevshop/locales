@@ -153,7 +153,7 @@ clib.localizer.append("en", {
     tip_drawtext = "- Naciśnij ~y~[TAB]~w~ aby przełączyć tryb rekwizycji / Rysowania tekstu",
     tip_drawtext_height = "- Naciśnij ~y~[SCROLL]~w~ aby zmienić wysokość tekstu",
     tip_drawtext_lock = "- Naciśnij ~y~[L. ALT]~w~ aby zablokować pozycję tekstu",
-    tip_drwatext_place = "- Naciśnij ~g~[E]~w~ aby umieścić tekst",
+    tip_drawtext_place = "- Naciśnij ~g~[E]~w~ aby umieścić tekst",
     tip_tablet_instructions_drawtext = "~g~Aim~w~ w dowolnym miejscu, aby użyć go jako ~y~tablet~w~, tablety są używane do ~y~przeglądania zasobów",
     tip_management_instructions_drawtext = "~g~Aim~w~ w dowolnym miejscu aby użyć go jako ~y~management~, zarządzanie jest używane do ~y~zarządzania tym sklepem",
     tip_remove_drawtext = "Naciśnij ~r~[E] ~w~aby ~r~usunąć~ten tekst",
