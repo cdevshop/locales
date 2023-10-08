@@ -67,5 +67,5 @@ clib.localizer.append("ru", {
     action_settings = "Настройки",
     action_matchHistory = "История матчей",
     RED = "RED",
-    BLUE = "БЛЮМА"
+    BLUE = "БЛЮМА",
 })

@@ -67,5 +67,5 @@ clib.localizer.append("fi", {
     action_settings = "Asetukset",
     action_matchHistory = "Vastaavuus Historia",
     RED = "RED",
-    BLUE = "SININEN"
+    BLUE = "SININEN",
 })

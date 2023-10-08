@@ -67,5 +67,5 @@ clib.localizer.append("el", {
     action_settings = "Ρυθμίσεις",
     action_matchHistory = "Ιστορικό Ταίριασμα",
     RED = "ΚΟΚΚΚ",
-    BLUE = "ΜΠΛΕ"
+    BLUE = "ΜΠΛΕ",
 })

@@ -67,5 +67,5 @@ clib.localizer.append("fr", {
     action_settings = "Réglages",
     action_matchHistory = "Historique des matchs",
     RED = "ROUGE",
-    BLUE = "BLEU"
+    BLUE = "BLEU",
 })

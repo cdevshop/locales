@@ -67,5 +67,5 @@ clib.localizer.append("cs", {
     action_settings = "Nastavení",
     action_matchHistory = "Historie kontaktů",
     RED = "RS",
-    BLUE = "BLUE"
+    BLUE = "BLUE",
 })
