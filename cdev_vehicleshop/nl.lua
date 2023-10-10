@@ -47,7 +47,7 @@ clib.localizer.append("nl", {
     delete = "Verwijderen",
     deleteask = "Verwijder winkel",
     deleteconfirm = "Weet u zeker dat u deze winkel wilt verwijderen?",
-    deletesuccess = "Winkel met succes verwijderd!"
+    deletesuccess = "Winkel met succes verwijderd!",
     blip_success = "Spiegel succesvol naar huidige locatie gezet!",
     employees = "Werknemers",
     add_employee = "Medewerker toevoegen",
