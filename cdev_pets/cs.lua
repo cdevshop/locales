@@ -88,5 +88,5 @@ clib.localizer.append("cs", {
     Balls = "Míče a míčky",
     Food = "Jídlo",
     Drinks = "Nápoje",
-    dog_sex = "Samice"
+    dog_sex = "Samice",
 })
