@@ -20,8 +20,8 @@ Locales for cDev FiveM resources
 ## VehicleShop 🚗
 - [x] Translations completed
 ## Lib ♾
-- [ ] ![Turkey](https://cdev.is-pretty.cool/8GW5vTs.png "Turkey") Missing
+- [x] Translations completed
 ## Soccer ⚽
-- [ ] ![Turkey](https://cdev.is-pretty.cool/8GW5vTs.png "Turkey") Missing
+- [x] Translations completed
 ## Pets 🐶
-- [ ] ![Turkey](https://cdev.is-pretty.cool/8GW5vTs.png "Turkey") Missing
+- [x] Translations completed
