@@ -47,7 +47,7 @@ clib.localizer.append("it", {
     delete = "Elimina",
     deleteask = "Elimina Negozio",
     deleteconfirm = "Sei sicuro di voler eliminare questo negozio?",
-    deletesuccess = "Negozio cancellato con successo!"
+    deletesuccess = "Negozio cancellato con successo!",
     blip_success = "Blip impostato con successo alla posizione corrente!",
     employees = "Dipendenti",
     add_employee = "Aggiungi Dipendente",
@@ -104,7 +104,7 @@ clib.localizer.append("it", {
     sale_fee = "Vendita Bonus Dipendente (%)",
     fire_employee = "Dipendente Di Fuoco",
     employeeupdated = "Dipendente aggiornato con successo!",
-    manage_orders = "Gestisci Ordini"
+    manage_orders = "Gestisci Ordini",
     accept = "Accetta",
     decline = "Rifiuta",
     no_orders = "Al momento non ci sono ordini",
@@ -162,7 +162,7 @@ clib.localizer.append("it", {
     take_screenshot = "Cattura Schermata",
     screenshot_taken = "Schermata scattata! La miniatura è stata impostata.",
     error_thumbnail_disabled = "La funzione miniatura è disabilitata. Si prega di attivarla nella configurazione.",
-    error_thumbnail_not_started = "{dependency} non è iniziato. Si prega di avviarlo per creare miniature."
+    error_thumbnail_not_started = "{dependency} non è iniziato. Si prega di avviarlo per creare miniature.",
     player_not_online = "Il giocatore non è online",
     categories = "Categorie",
     compacts = "Compatti",
@@ -208,5 +208,5 @@ clib.localizer.append("it", {
     resale_margin_minimum_error = "Il margine di rivendita non può essere inferiore all'1%",
     flatbed_instruction = "È possibile ottenere il veicolo che è stato ordinato alle banchine, è necessario generare un camion piatto utilizzando /flatbed e raccoglierlo.",
     hint = "Suggerimento",
-    drawtext_showroom = "Premi ~g~[E] ~w~to ~g~change vehicle~w~"
+    drawtext_showroom = "Premi ~g~[E] ~w~to ~g~change vehicle~w~",
 })

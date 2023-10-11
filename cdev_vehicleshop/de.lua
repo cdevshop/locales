@@ -208,5 +208,5 @@ clib.localizer.append("de", {
     resale_margin_minimum_error = "Wiederverkaufsspanne darf nicht kleiner als 1% sein",
     flatbed_instruction = "Sie können das bestellte Fahrzeug an den Docks erhalten, Sie müssen einen Flachbett-LKW mit /flatbed spawnen und abholen.",
     hint = "Hinweis",
-    drawtext_showroom = "Drücke ~g~[E] ~w~to ~g~Fahrzeug wechseln~w~"
+    drawtext_showroom = "Drücke ~g~[E] ~w~to ~g~Fahrzeug wechseln~w~",
 })

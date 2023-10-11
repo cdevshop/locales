@@ -208,5 +208,5 @@ clib.localizer.append("pt", {
     resale_margin_minimum_error = "Margem de revenda não pode ser inferior a 1%",
     flatbed_instruction = "Você pode obter o veículo que foi encomendado nas docas, você precisa gerar um caminhão cumprimentado usando /flatbed e pegá-lo.",
     hint = "Sugestão",
-    drawtext_showroom = "Aperte ~g~[E] ~w~to ~g~mudar veículo~w~"
+    drawtext_showroom = "Aperte ~g~[E] ~w~to ~g~mudar veículo~w~",
 })

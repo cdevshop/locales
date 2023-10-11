@@ -208,5 +208,5 @@ clib.localizer.append("cs", {
     resale_margin_minimum_error = "Rozpětí dalšího prodeje nemůže být nižší než 1%",
     flatbed_instruction = "Můžeš získat vozidlo, které bylo objednáno v docích, potřebuješ vytvořit plochý nákladní vůz pomocí /flatbed a zvednout jej.",
     hint = "Nápověda",
-    drawtext_showroom = "Stiskněte ~g~[E] ~w~do ~g~ke změně vozidla~w~"
+    drawtext_showroom = "Stiskněte ~g~[E] ~w~do ~g~ke změně vozidla~w~",
 })

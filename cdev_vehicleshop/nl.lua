@@ -47,7 +47,7 @@ clib.localizer.append("nl", {
     delete = "Verwijderen",
     deleteask = "Verwijder winkel",
     deleteconfirm = "Weet u zeker dat u deze winkel wilt verwijderen?",
-    deletesuccess = "Winkel met succes verwijderd!"
+    deletesuccess = "Winkel met succes verwijderd!",
     blip_success = "Spiegel succesvol naar huidige locatie gezet!",
     employees = "Werknemers",
     add_employee = "Medewerker toevoegen",
@@ -208,5 +208,5 @@ clib.localizer.append("nl", {
     resale_margin_minimum_error = "De vervalmarge kan niet lager zijn dan 1%",
     flatbed_instruction = "Je kunt het voertuig krijgen dat bij het dock is besteld, je moet een flatbed vrachtwagen spawnen met /flatbed en het ophalen.",
     hint = "Suggestie",
-    drawtext_showroom = "Druk op ~g~[E] ~w~om ~g~voertuig~w~ te ~g~veranderen~w~"
+    drawtext_showroom = "Druk op ~g~[E] ~w~om ~g~voertuig~w~ te ~g~veranderen~w~",
 })

@@ -208,5 +208,5 @@ clib.localizer.append("el", {
     resale_margin_minimum_error = "Το περιθώριο μεταπώλησης δεν μπορεί να είναι χαμηλότερο από 1%",
     flatbed_instruction = "Μπορείτε να πάρετε το όχημα που παραγγέλθηκε στις αποβάθρες, θα πρέπει να εμφανιστεί ένα φορτηγό flatbed χρησιμοποιώντας /flatbed και να το παραλάβει.",
     hint = "Υπόδειξη",
-    drawtext_showroom = "Πατήστε ~g~[E] ~w~για ~g~change vehicle~w~"
+    drawtext_showroom = "Πατήστε ~g~[E] ~w~για ~g~change vehicle~w~",
 })

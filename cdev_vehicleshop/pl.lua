@@ -208,5 +208,5 @@ clib.localizer.append("pl", {
     resale_margin_minimum_error = "Margines odsprzedaży nie może być niższy niż 1%",
     flatbed_instruction = "Możesz otrzymać samochód, który został zamówiony w dokach, musisz stworzyć płaskowaną ciężarówkę za pomocą /flatbed i podnieść ją.",
     hint = "Wskazówka",
-    drawtext_showroom = "Naciśnij ~g~[E] ~do ~g~zmień pojazd~w~"
+    drawtext_showroom = "Naciśnij ~g~[E] ~do ~g~zmień pojazd~w~",
 })

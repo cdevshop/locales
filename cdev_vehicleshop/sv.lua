@@ -208,5 +208,5 @@ clib.localizer.append("sv", {
     resale_margin_minimum_error = "Återförsäljarmarginalen kan inte vara lägre än 1%",
     flatbed_instruction = "Du kan få det fordon som beställdes vid bryggorna, du behöver för att leka en flatbädd lastbil med /flatbed och hämta den.",
     hint = "Tips",
-    drawtext_showroom = "Tryck på ~g~[E] ~w~to ~g~change fordon~w~"
+    drawtext_showroom = "Tryck på ~g~[E] ~w~to ~g~change fordon~w~",
 })

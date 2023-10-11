@@ -208,5 +208,5 @@ clib.localizer.append("fi", {
     resale_margin_minimum_error = "Jälleenmyyntimarginaali ei voi olla alle 1 %",
     flatbed_instruction = "Voit saada ajoneuvon, joka on tilattu telakoilla, sinun täytyy spawn a flatbed kuorma käyttäen /flatbed ja poimia se.",
     hint = "Vihje",
-    drawtext_showroom = "Paina ~g~[E] ~w~~g~change vehicle~w~"
+    drawtext_showroom = "Paina ~g~[E] ~w~~g~change vehicle~w~",
 })

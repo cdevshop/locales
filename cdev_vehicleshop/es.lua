@@ -208,5 +208,5 @@ clib.localizer.append("es", {
     resale_margin_minimum_error = "El margen de reventa no puede ser inferior al 1%",
     flatbed_instruction = "Puedes obtener el vehículo que se ordenó en el muelle, necesitas aparcar un camión llano usando /llatbed y recogerlo.",
     hint = "Pista",
-    drawtext_showroom = "Presiona ~g~[E] ~w~para ~g~cambiar vehículo~w~"
+    drawtext_showroom = "Presiona ~g~[E] ~w~para ~g~cambiar vehículo~w~",
 })
